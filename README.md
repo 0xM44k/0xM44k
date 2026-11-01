@@ -13,9 +13,11 @@
 
 ### `whoami`
 
-I build **small, auditable command-line tools for security review** — MCP configs, lockfiles, cryptography, firewall rules, incident drills and AI-agent memory forensics. Each tool does a single job and documents what it **cannot** do. I'd rather ship a tool that is honest about its blind spots than one that overstates what it catches.
+I build **security tooling and secure web front-ends** — from small, auditable command-line tools to larger projects and interfaces, all with the same bias: one clear job, secure by default, and honest about its limits.
 
-Everything here is a **personal project**, verifiable from the public code. There are no certifications or employers listed because none have been added yet; the code is the proof.
+The bigger ones are **[mcp-lantern](https://github.com/0xM44k/mcp-lantern)** (MCP / LLM config security) and **[ramnesia](https://github.com/0xM44k/ramnesia)** (AI-agent memory forensics); the rest cover lockfiles, cryptography, firewall rules and incident drills. On the web side I build the front-ends to match — this profile and my portfolio among them.
+
+Everything here is a **personal project**, verifiable from the public code. There are no certifications or employers listed because none have been added yet; the code is the proof. I'd rather ship something honest about its blind spots than something that overstates what it does.
 
 ---
 
@@ -45,8 +47,11 @@ Every one is offline-first, dependency-light, and emits machine-readable output 
 ![MCP](https://img.shields.io/badge/-MCP-00f3ff?style=flat-square&labelColor=0e1620)
 ![SARIF](https://img.shields.io/badge/-SARIF-6E40C9?style=flat-square&labelColor=0e1620)
 ![Volatility](https://img.shields.io/badge/-Volatility%203-1f6feb?style=flat-square&labelColor=0e1620)
+![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white&labelColor=0e1620)
+![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white&labelColor=0e1620)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black&labelColor=0e1620)
 
-**Interests:** networking · Linux & operating systems · cryptography · security research · agents & MCP · memory forensics.
+**Interests:** networking · Linux & operating systems · cryptography · security research · agents & MCP · memory forensics · secure web front-ends.
 
 ---
 
