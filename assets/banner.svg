@@ -48,9 +48,9 @@
     <!-- stat chips -->
     <g font-family="'JetBrains Mono',ui-monospace,monospace" font-size="13" fill="#9aa7b8">
       <rect x="860" y="60" width="120" height="30" rx="6" fill="#0e1620" stroke="#17202b"/><text x="878" y="80">7 tools</text>
-      <rect x="990" y="60" width="150" height="30" rx="6" fill="#0e1620" stroke="#17202b"/><text x="1008" y="80">137 tests pass</text>
-      <rect x="860" y="100" width="120" height="30" rx="6" fill="#0e1620" stroke="#17202b"/><text x="878" y="120">0 fabricated</text>
-      <rect x="990" y="100" width="150" height="30" rx="6" fill="#0e1620" stroke="#17202b"/><text x="1008" y="120">offline · auditable</text>
+      <rect x="990" y="60" width="150" height="30" rx="6" fill="#0e1620" stroke="#17202b"/><text x="1008" y="80">open source</text>
+      <rect x="860" y="100" width="120" height="30" rx="6" fill="#0e1620" stroke="#17202b"/><text x="878" y="120">offline-first</text>
+      <rect x="990" y="100" width="150" height="30" rx="6" fill="#0e1620" stroke="#17202b"/><text x="1008" y="120">auditable by design</text>
     </g>
   </g>
   <rect x="0.5" y="0.5" width="1199" height="299" rx="14" fill="none" stroke="#17323f"/>
