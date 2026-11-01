@@ -64,5 +64,5 @@ Every one is offline-first, dependency-light, and emits machine-readable output 
 ---
 
 <p align="center">
-  <sub><code>m11k.08k3@gmail.com</code> · built from scratch · no analytics, no trackers</sub>
+  <sub><code>m11k.08k3@gmail.com</code> · built from scratch</sub>
 </p>
